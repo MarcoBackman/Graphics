@@ -76,7 +76,7 @@ def use_3D_model(x, y, z, x_list, y_list, z_list, i_face , j_face, k_face):
 def resize_3d(matrix, resize_factor):
     resize_matrix_factor = np.identity(3) * resize_factor
     return np.matmul(resize_matrix_factor, matrix)
-
+'''
 #Rotation - x, y, z
 def rotation_3d(matrix, yaw_degree, pitch_degree, roll_degree):
     yaw_matrix = np.array([[math.cos(yaw_degree), -math.sin(yaw_degree), 0],
@@ -95,7 +95,9 @@ def rotation_3d(matrix, yaw_degree, pitch_degree, roll_degree):
                                                    roll_matrix)
     return np.matmul(matrix, rotational_factor_matrix)
 
-'''#3d to 2d project - removes z-axis
+'''
+'''
+#3d to 2d project - removes z-axis
 #n by 3 to n by 2
 def third_dimension_to_two_dimension(matrix):
     # 3 X 2 identity
@@ -103,7 +105,8 @@ def third_dimension_to_two_dimension(matrix):
                                [0, 1],
                                [0, 0]]
                         
-    return np.matmul(matrix, matrix_reduction_factor)'''
+    return np.matmul(matrix, matrix_reduction_factor)
+'''
 
 def single_frame(frame_rate):
     resized_v = []
