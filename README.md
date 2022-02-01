@@ -1,6 +1,10 @@
 # Graphics
 
 ## Assignment2 - basic transformation of 3d graphics
+
+
+> Data is given in ply file format containing verticies(vertex coordinations) and faces(edge coordinates)
+
 <div align="center">
    <a href="">
      <img src="img/assignment2/cube.gif" alt="img" width="380" height="380">
