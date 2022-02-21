@@ -25,7 +25,7 @@
 
 <div align="center">
    <a href="">
-     <img src="output_1.gif" alt="img" width="380" height="380">
+     <img src="output_1.gif" alt="img" width="480" height="380">
    </a>
    <p>Figure1. First attempt, using only average vertex points</p>
    </br>
