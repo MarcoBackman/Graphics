@@ -21,12 +21,13 @@
 ## Assignment3 - Morphing and Delaunay triangulation with faces
 
 
-> Data is given in ply file format containing verticies(vertex coordinations) and faces(edge coordinates)
-
+> Data given with .pts format
 <div align="center">
    <a href="">
      <img src="output_1.gif" alt="img" width="480" height="380">
    </a>
    <p>Figure1. First attempt, using only average vertex points</p>
+   <p>Used Python Delaunay from scipy.spatial package</p>
+   <p>Problem - Edges change on morph. Needs to stay along with targeted vertices.
    </br>
 </div>
