@@ -38,7 +38,7 @@
 > Data given with .asf format
 <div align="center">
    <a href="">
-     <img src="img/assignment2/movie.gif" alt="img" width="500" height="500">
+     <img src="img/assignment2/movie.gif" alt="img" width="600" height="500">
    </a>
    <p>Figure2. Final attempt, used vector multiplication on triangle edges</p>
    <p>Used Python Delaunay from scipy.spatial package for initial search</p>
