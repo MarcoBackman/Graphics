@@ -62,7 +62,7 @@ Affine contains
 
 <div align="center">
    <a href="">
-     <img src="img/assignment2/affine1.png" alt="img" width="700" height="500">
+     <img src="img/assignment2/affine1.png" alt="img" width="300" height="300">
    </a>
    <p>Figure1. Original image</p>
    </br>
@@ -71,7 +71,7 @@ Affine contains
 
 <div align="center">
    <a href="">
-     <img src="img/assignment2/affine2.png" alt="img" width="700" height="500">
+     <img src="img/assignment2/affine2.png" alt="img" width="300" height="300">
    </a>
    <p>Figure2. Affined image based on given affine value: [1, 3, 1, 2, 1, 1] </p>
    </br>
