@@ -45,3 +45,34 @@
    </br>
 </div>
 
+
+
+## Assignment4 - Affining image 
+
+Affine contains
+
+1. identity
+2. tranlation
+3. reflection
+4. scale
+5. rotate
+6. shear
+
+> Data given with .png image with predefine affine value
+
+<div align="center">
+   <a href="">
+     <img src="img/assignment2/affine1.png" alt="img" width="700" height="500">
+   </a>
+   <p>Figure1. Original image</p>
+   </br>
+</div>
+
+
+<div align="center">
+   <a href="">
+     <img src="img/assignment2/affine2.png" alt="img" width="700" height="500">
+   </a>
+   <p>Figure2. Affined image based on given affine value: [1, 3, 1, 2, 1, 1] </p>
+   </br>
+</div>
