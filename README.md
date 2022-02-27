@@ -28,6 +28,20 @@
    </a>
    <p>Figure1. First attempt, using only average vertex points</p>
    <p>Used Python Delaunay from scipy.spatial package</p>
-   <p>Problem - Edges change on morph. Needs to stay along with targeted vertices.
+   <p>
+      Problem1 - Edges change on morph. Needs to stay along with targeted vertices.<br>
+      Problem2 - Y axis possibly flipped/\.
+   </p>
    </br>
 </div>
+
+> Data given with .asf format
+<div align="center">
+   <a href="">
+     <img src="img/assignment2/movie.gif" alt="img" width="700" height="500">
+   </a>
+   <p>Figure2. Final attempt, used vector multiplication on triangle edges</p>
+   <p>Used Python Delaunay from scipy.spatial package for initial search</p>
+   </br>
+</div>
+
