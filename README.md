@@ -58,7 +58,7 @@ Affine contains
 5. rotate
 6. shear
 
-![link for assignment description](https://github.com/MarcoBackman/Graphics/blob/main/Assignment4/Assignment4.ipynb)
+![](https://github.com/MarcoBackman/Graphics/blob/main/Assignment4/Assignment4.ipynb)
 
 > Data given with .png image with predefine affine value
 
