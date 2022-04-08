@@ -62,14 +62,6 @@ Affine contains
 
 > Data given with .png image with predefine affine value
 
-<div align="center">
-   <a href="">
-     <img src="img/assignment2/affine1.png" alt="img" width="300" height="300">
-   </a>
-   <p>Figure1. Original image</p>
-   </br>
-</div>
-
 
 <div align="center">
    <a href="">
